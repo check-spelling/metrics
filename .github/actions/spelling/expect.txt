@@ -76,6 +76,7 @@ expr
 expressjs
 extracter
 extralarge
+Exxxxample
 facebook
 favicon
 favourites
@@ -358,6 +359,7 @@ whoami
 wiki
 wikipedia
 wontfix
+Worddds
 workaround
 WORKDIR
 worldmap
